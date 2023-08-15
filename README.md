@@ -1,2 +1,2 @@
 # MathModel
-This for Graduate MathModel.
+This for 20th Graduate MathModel.
