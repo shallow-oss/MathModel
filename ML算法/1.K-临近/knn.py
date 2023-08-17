@@ -121,6 +121,6 @@ def knn_diabetes():
     plt.show()
 
 
-knn_classify()
-# knn_regression()
+# knn_classify()
+knn_regression()
 # knn_diabetes()
